@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MK-BG (Manny Khan)
-- 👀 I’m interested in AI, Web3, Crypto, and Blockcahin Security.
+- 👀 I have 15+ years of hands-on technical cybersecurity experience.
+- ✨ I focus on AI, Web3, Crypto, and Blockcahin Security.
 - 🌱 I’m currently learning Chaos Eningeering, ZeroOps, NoOps, Sales, and GTM strategies.
-- 💞️ I’m looking to collaborate on podcasts, webinars, whitepapers, and events/conferences.
+- 💞️ I’m looking to collaborate on podcasts, webinars, whitepapers, and be a conference speaker.
 - 📫 How to reach me: LinkedIn @ https://www.linkedin.com/in/khanmanny/
 - ⚡ Fun fact: I speak 5 languages.
 
